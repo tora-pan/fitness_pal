@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "fitness_pal",
+    "name": "Chanto Yatteru?",
     "slug": "fitness_pal",
+    "description": "A simple fitness app to help you stay on track with your fitness goals.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

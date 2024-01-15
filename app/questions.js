@@ -1,0 +1,50 @@
+export const profileQuestions = [
+    {
+        questionId: 0,
+        question: 'What is your full name?',
+        type: 'input',
+        value: 'Name',
+        inputPlaceholder: 'Full Name',
+    },
+    {
+        questionId: 1,
+        question: 'What is your age?',
+        type: 'input',
+        value: 'Age',
+        inputPlaceholder: 'Age',
+    },
+    {
+        questionId: 2,
+        question: 'What is your height?',
+        type: 'scrollwheel',
+        value: 'Height',
+        inputPlaceholder: 'Height',
+    },
+    {
+        questionId: 3,
+        question: 'What is your weight?',
+        type: 'scrollwheel',
+        value: 'Weight',
+        inputPlaceholder: 'Weight',
+    },
+    {
+        questionId: 4,
+        question: 'What is your goal?',
+        type: 'options',
+        value: 'Goals',
+        options: ['Lose Weight', 'Gain Muscle', 'Maintain Weight'],
+    },
+    {
+        questionId: 5,
+        question: 'What is your gender?',
+        type: 'options',
+        value: 'Gender',
+        options: ['Male', 'Female'],
+    },
+    {
+        questionId: 6,
+        question: 'Right on, you are all set!',
+        type: 'Finish',
+        value: 'Finish',
+    },
+];
